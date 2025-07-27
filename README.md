@@ -19,12 +19,19 @@ Conversão de leads qualificados. (Cadastro em plataforma)
 
 ## Arquivos
 - 'campanha.dados.xlsx': base de dados fictícia.
-- 'dashboard.pbix': arquivo Power BI com gráficos e análise. 
+- 'dashboard.pbix': arquivo Power BI com gráficos interativos e análise. 
+- 'dashboard.powerbi.png': print dashboard final 
+- 'analise-campanha.py': script Python que irá ler a base fictícia e gerar gráficos.
 - 'insights.md': análise escrita com os principais pontos de campanha.
+- 'grafico_top5_ctr.png' , 'grafico_top5_gasto.png': Prints gráficos python
 
-## Ferramentas 
+## Tecnologias utilizadas 
 - Microsoft Power BI
 - Excel
+- Python 3 
+- Pandas
+- Matplotlib
+- Seaborn
 
 ## Autoria 
 Projeto desenvolvido por Polyana França como estudo prático em Análise de dados de Marketing.
